@@ -20,7 +20,7 @@ export function AppSidebar() {
       <div className="p-3">
       <div className=" flex justify-between items-center">
      <div className="flex items-center gap-3"><Image src={'/logo.svg'} alt="logo" width={60} height={60}
-      className="w-[40px] h-[40px}"/>
+      className="w-10 h-[40px}"/>
       <h2 className="font-bold text-xl">AI FUSION</h2>
       </div> 
       <div>
