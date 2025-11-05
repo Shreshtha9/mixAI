@@ -64,7 +64,7 @@ function AiMultiModels() {
 
           {model.premium && model.enable && (
             <div className='flex items-center justify-center h-full'>
-              <Button><Lock /> Upgrade to Unlock</Button>
+              <Button><Lock /> Upgrade to unlock</Button>
             </div>
           )}
         </div>
